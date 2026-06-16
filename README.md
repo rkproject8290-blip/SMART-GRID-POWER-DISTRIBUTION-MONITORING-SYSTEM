@@ -1,6 +1,8 @@
 # SMART-GRID-POWER-DISTRIBUTION-MONITORING-SYSTEM
 
-Smart Grid Power Distribution & Monitoring System is a Physical AI based solution developed using Arduino UNO Q, ESP32, and NodeMCU. The system integrates real-time fault detection, transformer health monitoring, smart energy metering, street light monitoring, and intelligent power management to improve electrical grid efficiency.
+## Arduino Physical AI Challenge India 2026
+
+Smart Grid Power Distribution & Monitoring System is an AI-driven electrical infrastructure platform developed using Arduino UNO Q, ESP8266 NodeMCU, sensors, relays, and Edge AI algorithms. The system provides real-time fault detection, fault distance estimation, transformer protection, smart metering, underground cable fault tracking, backup power automation, and intelligent grid monitoring.
 
 ---
 
@@ -19,31 +21,81 @@ Smart Grid Power Distribution & Monitoring System is a Physical AI based solutio
 ## Project Demonstration Video
 
 Video Link:
-(Paste your YouTube or Google Drive link here)
+
+(Add YouTube Video Link Here)
 
 ---
 
-## Project Modules
+## Project Overview
 
-### 1. Edge AI 11KV Line Fault Detection
+The project is designed to create a self-healing and intelligent power distribution network capable of:
+
+- Real-Time Fault Detection
+- Fault Distance Estimation
+- Transformer Health Monitoring
+- Smart Energy Metering
+- Underground Cable Fault Tracking
+- Street Light Fault Detection
+- Automatic Backup Power Switching
+- Phase Load Balancing
+- Zonal Fault Isolation
+- IoT-Based Monitoring
+
+---
+
+## Core Project Modules
+
+### 1. 33KV Incoming Grid Fault Protection
+
+- High-speed fault isolation
+- Fire protection integration
+- Relay-based emergency shutdown
+
+### 2. Edge AI 11KV Line Fault Detection
+
 - Real-time fault detection
-- Fault distance estimation
-- Automatic line isolation
+- Fault distance calculation
+- LCD-based diagnostics
+- Phase-wise fault identification
 
-### 2. Smart Energy Meter
-- Overload protection
-- Energy monitoring
-- Voltage protection
+### 3. Underground Cable Fault Detection Robot
 
-### 3. Transformer Protection System
+- Wireless fault tracking
+- Electromagnetic signal detection
+- Fault location identification
+
+### 4. Transformer Protection System
+
 - Temperature monitoring
 - Cooling fan automation
 - Emergency shutdown protection
 
-### 4. Smart Street Light Monitoring
+### 5. Backup UPS / Micro Grid System
+
+- Automatic changeover
+- Backup power supply
+- Emergency grid support
+
+### 6. Smart Street Light Monitoring
+
 - Street light fault detection
 - ESP-NOW communication
 - Blynk cloud monitoring
+- Remote diagnostics
+
+### 7. Smart Grid Load Balancing
+
+- ACS712 current monitoring
+- Overload detection
+- Automatic phase protection
+
+### 8. Smart Energy Meter
+
+- Energy monitoring
+- Overload protection
+- Under-voltage protection
+- Over-voltage protection
+- Consumer safety management
 
 ---
 
@@ -51,23 +103,46 @@ Video Link:
 
 ### Complete Smart Grid Model
 
-(Add Project Image)
+![Complete Smart Grid Model](images/Smart_Grid_Model.jpg)
 
 ### 11KV Fault Detection Module
 
-(Add Image)
+![11KV Fault Detection](images/11kv_fault_detection.jpg)
 
 ### Smart Meter Module
 
-(Add Image)
+![Smart Meter](images/Smart_meter.jpg)
 
 ### Street Light Monitoring Module
 
-(Add Image)
+![Street Light Monitoring](images/Street_light_monitoring.jpg)
 
 ### Transformer Protection Module
 
-(Add Image)
+![Transformer Protection](images/Transformer_protection.jpg)
+
+### Underground Cable Fault Detection
+
+![Underground Fault Detection](images/Underground_fault_detection.jpg)
+
+### Backup UPS System
+
+![Backup UPS](images/Backup_UPS.jpg)
+
+---
+
+## Hardware Used
+
+- Arduino UNO Q
+- ESP8266 NodeMCU
+- ACS712 Current Sensor
+- Relays
+- LCD Display
+- Temperature Sensor
+- Buzzer
+- Transformer
+- Power Supply
+- IoT Monitoring System
 
 ---
 
@@ -80,6 +155,18 @@ Video Link:
 
 ---
 
+## Future Scope
+
+- Predictive Maintenance using AI
+- Wireless Mesh Grid Monitoring
+- Smart City Integration
+- Cloud Analytics Dashboard
+- Renewable Energy Integration
+
+---
+
 ## License
 
-This project was developed for Arduino Physical AI Challenge India 2026.
+Developed for Arduino Physical AI Challenge India 2026.
+
+Copyright © Rahul Kalwa
