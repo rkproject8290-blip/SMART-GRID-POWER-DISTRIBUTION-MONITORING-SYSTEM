@@ -20,7 +20,7 @@ Smart Grid Power Distribution & Monitoring System is an AI-driven electrical inf
 
 ## Project Demonstration Video
 
-Video Link:
+**Video Link:**
 
 (Add YouTube Video Link Here)
 
@@ -30,16 +30,16 @@ Video Link:
 
 The project is designed to create a self-healing and intelligent power distribution network capable of:
 
-- Real-Time Fault Detection
-- Fault Distance Estimation
-- Transformer Health Monitoring
-- Smart Energy Metering
-- Underground Cable Fault Tracking
-- Street Light Fault Detection
-- Automatic Backup Power Switching
-- Phase Load Balancing
-- Zonal Fault Isolation
-- IoT-Based Monitoring
+* Real-Time Fault Detection
+* Fault Distance Estimation
+* Transformer Health Monitoring
+* Smart Energy Metering
+* Underground Cable Fault Tracking
+* Street Light Fault Detection
+* Automatic Backup Power Switching
+* Phase Load Balancing
+* Zonal Fault Isolation
+* IoT-Based Monitoring
 
 ---
 
@@ -47,55 +47,55 @@ The project is designed to create a self-healing and intelligent power distribut
 
 ### 1. 33KV Incoming Grid Fault Protection
 
-- High-speed fault isolation
-- Fire protection integration
-- Relay-based emergency shutdown
+* High-speed fault isolation
+* Fire protection integration
+* Relay-based emergency shutdown
 
 ### 2. Edge AI 11KV Line Fault Detection
 
-- Real-time fault detection
-- Fault distance calculation
-- LCD-based diagnostics
-- Phase-wise fault identification
+* Real-time fault detection
+* Fault distance calculation
+* LCD-based diagnostics
+* Phase-wise fault identification
 
 ### 3. Underground Cable Fault Detection Robot
 
-- Wireless fault tracking
-- Electromagnetic signal detection
-- Fault location identification
+* Wireless fault tracking
+* Electromagnetic signal detection
+* Fault location identification
 
 ### 4. Transformer Protection System
 
-- Temperature monitoring
-- Cooling fan automation
-- Emergency shutdown protection
+* Temperature monitoring
+* Cooling fan automation
+* Emergency shutdown protection
 
 ### 5. Backup UPS / Micro Grid System
 
-- Automatic changeover
-- Backup power supply
-- Emergency grid support
+* Automatic changeover
+* Backup power supply
+* Emergency grid support
 
 ### 6. Smart Street Light Monitoring
 
-- Street light fault detection
-- ESP-NOW communication
-- Blynk cloud monitoring
-- Remote diagnostics
+* Street light fault detection
+* ESP-NOW communication
+* Blynk cloud monitoring
+* Remote diagnostics
 
 ### 7. Smart Grid Load Balancing
 
-- ACS712 current monitoring
-- Overload detection
-- Automatic phase protection
+* ACS712 current monitoring
+* Overload detection
+* Automatic phase protection
 
 ### 8. Smart Energy Meter
 
-- Energy monitoring
-- Overload protection
-- Under-voltage protection
-- Over-voltage protection
-- Consumer safety management
+* Energy monitoring
+* Overload protection
+* Under-voltage protection
+* Over-voltage protection
+* Consumer safety management
 
 ---
 
@@ -103,65 +103,73 @@ The project is designed to create a self-healing and intelligent power distribut
 
 ### Complete Smart Grid Model
 
-![Complete Smart Grid Model](images/Smart_Grid_Model.jpg)
+![Complete Smart Grid Model](images/complete_model.jpg.jpg)
+
+### 33KV Grid Fault Protection
+
+![33KV Fault Detection](images/33kv_fault_detection.jpg.jpg)
 
 ### 11KV Fault Detection Module
 
-![11KV Fault Detection](images/11kv_fault_detection.jpg)
+![11KV Fault Detection](images/11kv_fault_detection.jpg.jpg)
 
 ### Smart Meter Module
 
-![Smart Meter](images/Smart_meter.jpg)
+![Smart Meter](images/smart_meter.jpg.jpg)
 
 ### Street Light Monitoring Module
 
-![Street Light Monitoring](images/Street_light_monitoring.jpg)
+![Street Light Monitoring](images/street_light_monitoring.jpg.jpg)
 
 ### Transformer Protection Module
 
-![Transformer Protection](images/Transformer_protection.jpg)
+![Transformer Protection](images/transformer_protection.jpg.jpg)
 
 ### Underground Cable Fault Detection
 
-![Underground Fault Detection](images/Underground_fault_detection.jpg)
+![Underground Fault Detection](images/underground_fault_detection.jpg.jpg)
 
 ### Backup UPS System
 
-![Backup UPS](images/Backup_UPS.jpg)
+![Backup UPS](images/backup_ups_system.jpg.jpg)
+
+### Arduino UNO Q Overload Protection
+
+![Overload Protection](images/overload_protection_unoq.jpg.jpg)
 
 ---
 
 ## Hardware Used
 
-- Arduino UNO Q
-- ESP8266 NodeMCU
-- ACS712 Current Sensor
-- Relays
-- LCD Display
-- Temperature Sensor
-- Buzzer
-- Transformer
-- Power Supply
-- IoT Monitoring System
+* Arduino UNO Q
+* ESP8266 NodeMCU
+* ACS712 Current Sensor
+* Relays
+* LCD Display
+* Temperature Sensor
+* Buzzer
+* Transformer
+* Power Supply
+* IoT Monitoring System
 
 ---
 
 ## GitHub Repository Contents
 
-- AI_based_smart_grid_overload_protection.ino
-- Edge_AI_11kv_Line_fault_detection.ino
-- Edge_AI_smart_meter.ino
-- Edge_AI_street_light_fault_detection.ino
+* AI_based_smart_grid_overload_protection.ino
+* Edge_AI_11kv_Line_fault_detection.ino
+* Edge_AI_smart_meter.ino
+* Edge_AI_street_light_fault_detection.ino
 
 ---
 
 ## Future Scope
 
-- Predictive Maintenance using AI
-- Wireless Mesh Grid Monitoring
-- Smart City Integration
-- Cloud Analytics Dashboard
-- Renewable Energy Integration
+* Predictive Maintenance using AI
+* Wireless Mesh Grid Monitoring
+* Smart City Integration
+* Cloud Analytics Dashboard
+* Renewable Energy Integration
 
 ---
 
