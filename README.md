@@ -17,12 +17,15 @@ Smart Grid Power Distribution & Monitoring System is an AI-driven electrical inf
 **Institute:** Choudhary Roopram Pvt. ITI, Rawatsar, Rajasthan, India
 
 ---
+## GitHub Repository
+
+[View GitHub Repository](https://github.com/rkproject8290-blip/SMART-GRID-POWER-DISTRIBUTION-MONITORING-SYSTEM)
+
+---
 
 ## Project Demonstration Video
 
-**Video Link:**
-
-(Add YouTube Video Link Here)
+[Watch Demo Video](https://www.youtube.com/watch?v=-VYQzXCepr0)
 
 ---
 
